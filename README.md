@@ -1,0 +1,1 @@
+# pokedexTypescrit2
